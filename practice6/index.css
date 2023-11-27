@@ -1,38 +1,3 @@
-.lnk1 {
-   color: rgb(214, 17, 17)
- }
- .lnk1:visited {
-   color: rgb(84, 11, 11)}
-
- .lnk2 {
-   color: rgb(232, 232, 32)
- }
- .lnk2:visited {
-   color :rgb(144, 144, 10)
- }
-
- .lnk3 {
-   color: rgb(17, 200, 41)
- }
- .lnk3:visited {
-   color :rgb(11, 100, 23)
- }
-
- .lnk4 {
-   color: rgb(195, 137, 10)
- }
- .lnk4:visited {
-   color :rgb(91, 64, 6)
- }
-
- .title-index{
-   text-align: center;
-   font-size: 24px;
- }
-
- .txt-index{
-   font-size: 120%;
- }
 
  /* Large devices */
  @media (min-width: 992px) {
