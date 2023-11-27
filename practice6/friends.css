@@ -1,0 +1,21 @@
+.first{
+   font-size: 130%;
+ }
+ .inf{
+   font-size: 120%;
+ }
+
+ @media (max-width: 993px) {
+ .first{
+   font-size: 120%;
+ }
+ .inf{
+   font-size: 110%;
+ }
+ }
+
+ @media (max-width: 768px) {
+ .first{
+   font-size: 110%;
+ }
+ }
